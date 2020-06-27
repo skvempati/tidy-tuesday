@@ -1,2 +1,2 @@
-# tidy_tuesday
-TidyTuesday things
+tidy-tuesday
+Tidy Tuesday things
